@@ -1,0 +1,10 @@
+Dashboard	GET /dashboard/summary
+Find Jobs	GET /jobs
+Job Details	GET /jobs/{id}	
+Apply	POST /applications	
+My Applications	GET /applications	
+AI Resume Studio	POST /resume/analyze	
+Profile	GET /profile	
+Profile	PUT /profile	
+
+This are the request that I added in this frontend, let me know if you want anything else.
