@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="736f81cb-b03c-428b-92c6-ab418ac020dc" name="Changes" comment="" />
+    <list default="true" id="8c2e986d-11df-4fa0-839e-43151cfea58d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecruitmentAndSkillTrainingPlatform/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RecruitmentAndSkillTrainingPlatform/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecruitmentAndSkillTrainingPlatform/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RecruitmentAndSkillTrainingPlatform/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,23 +49,46 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="3HxPi3kqR48v6uSoDFtZodJ8FOy" />
+  <component name="ProjectId" id="3HywdjKyDJ72wnhPT2HtVYodsGZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ApplicationMain.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Rahul/Desktop/CollegeMajorProject/AI-Based-Recruitment-and-Skill-Training-Platform"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.majorProject.RecruitmentAndSkillTrainingPlatform.enums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rahul\Desktop\CollegeMajorProject\AI-Based-Recruitment-and-Skill-Training-Platform\RecruitmentAndSkillTrainingPlatform\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RecruitmentAndSkillTrainingPlatform" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.majorProject.RecruitmentAndSkillTrainingPlatform.RecruitmentAndSkillTrainingPlatformApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,11 +98,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="736f81cb-b03c-428b-92c6-ab418ac020dc" name="Changes" comment="" />
-      <created>1786806872415</created>
+      <changelist id="8c2e986d-11df-4fa0-839e-43151cfea58d" name="Changes" comment="" />
+      <created>1786853707533</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1786806872415</updated>
+      <updated>1786853707533</updated>
     </task>
     <servers />
   </component>
